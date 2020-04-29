@@ -11,3 +11,5 @@ Integration testing is the combined execution of two or more classes, packages, 
 
 Integration Testing is conducted by multiple programmers or programming teams
 It is type of blackbox & whitebox testing
+
+Updated by Aaron Chan
